@@ -1,0 +1,32 @@
+{
+    "create": {
+        "account": {
+            "name": "Amanda Ruiz",
+            "email": "amandaruiz@smartbit.com",
+            "cpf": "91094060003"
+        },
+        "plan": "Plano Black",
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Amanda Ruiz",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    },
+    "duplicate": {
+        "account": {
+            "name": "Amanda R",
+            "email": "amandar@smartbit.com",
+            "cpf": "36367930043"
+        },
+        "plan": "Plano Smart",
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Amanda R",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    }
+}

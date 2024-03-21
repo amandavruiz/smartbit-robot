@@ -1,0 +1,7 @@
+Faker==23.2.1
+psycopg2==2.9.9
+robotframework==7.0
+robotframework-browser==18.2.0
+robotframework-jsonlibrary==0.5
+
+# pip install -r requirements.txt
